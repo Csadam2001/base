@@ -67,6 +67,7 @@ public class TrainSystemTest {
 		controller.emergencybrake();
 		controller.followSpeed();
 		Assert.assertEquals(0,controller.getReferenceSpeed());
+		
 	}
 	
 }
