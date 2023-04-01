@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 branch-A change2
+=======
+branch-B change2
+>>>>>>> branch-B
 
 > Elso modositas
 # Masodik modositas
